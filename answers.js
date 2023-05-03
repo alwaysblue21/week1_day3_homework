@@ -177,7 +177,24 @@
 ////////////////////////////////
 // Where is Waldo
 ////////////////////////////////
+const whereIsWaldo = [["Timmy", "Frank"], "Eggbert",
+                    ["Lucinda", "Jacc", "Neff", "Snoop"],
+                    ["Petunia", ["Baked Goods", "Waldo"]]];
 
+// Remove Eggbert (hint look at the slice/splice method(s))
+// whereIsWaldo.splice(1,1);
+// console.log(whereIsWaldo);
+
+// Change "Neff" to "No One"
+
+// const index = whereIsWaldo[2].indexOf("Neff");
+// whereIsWaldo[2].splice(index, 1, "No One");
+// console.log(whereIsWaldo);
+
+// Access and console.log "Waldo"
+// const index = whereIsWaldo[3].indexOf("Waldo");
+// const waldo = whereIsWaldo[3][index];
+// console.log(waldo);
 
 ////////////////////////////////
 //  Excited Kitten
