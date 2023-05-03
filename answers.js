@@ -177,9 +177,9 @@
 ////////////////////////////////
 // Where is Waldo
 ////////////////////////////////
-const whereIsWaldo = [["Timmy", "Frank"], "Eggbert",
-                    ["Lucinda", "Jacc", "Neff", "Snoop"],
-                    ["Petunia", ["Baked Goods", "Waldo"]]];
+// const whereIsWaldo = [["Timmy", "Frank"], "Eggbert",
+//                     ["Lucinda", "Jacc", "Neff", "Snoop"],
+//                     ["Petunia", ["Baked Goods", "Waldo"]]];
 
 // Remove Eggbert (hint look at the slice/splice method(s))
 // whereIsWaldo.splice(1,1);
