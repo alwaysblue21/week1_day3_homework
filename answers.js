@@ -192,9 +192,11 @@
 // console.log(whereIsWaldo);
 
 // Access and console.log "Waldo"
-// const index = whereIsWaldo[3].indexOf("Waldo");
-// const waldo = whereIsWaldo[3][index];
+// const index = whereIsWaldo[3][1].indexOf("Waldo");
+// console.log(index);
+// const waldo = whereIsWaldo[3][1][index];
 // console.log(waldo);
+
 
 ////////////////////////////////
 //  Excited Kitten
